@@ -1,0 +1,64 @@
+State,ID,Flyway,Country
+Connecticut,CT,Atlantic,USA
+Delaware,DE,Atlantic,USA
+Florida,FL,Atlantic,USA
+Georgia,GA,Atlantic,USA
+Maine,ME,Atlantic,USA
+Maryland,MD,Atlantic,USA
+Massachusetts,MA,Atlantic,USA
+New Hampshire,NH,Atlantic,USA
+New Jersey,NJ,Atlantic,USA
+New York,NY,Atlantic,USA
+North Carolina,NC,Atlantic,USA
+Pennsylvania,PA,Atlantic,USA
+Rhode Island,RI,Atlantic,USA
+South Carolina,SC,Atlantic,USA
+Vermont,VT,Atlantic,USA
+Virginia,VA,Atlantic,USA
+West Virginia,WV,Atlantic,USA
+Québec,QC,Atlantic,USA
+Alabama,AL,Mississippi,USA
+Arkansas,AR,Mississippi,USA
+Indiana,IN,Mississippi,USA
+Illinois,IL,Mississippi,USA
+Iowa,IA,Mississippi,USA
+Kentucky,KY,Mississippi,USA
+Louisiana,LA,Mississippi,USA
+Michigan,MI,Mississippi,USA
+Minnesota,MN,Mississippi,USA
+Mississippi,MS,Mississippi,USA
+Missouri,MO,Mississippi,USA
+Ohio,OH,Mississippi,USA
+Tennessee,TN,Mississippi,USA
+Wisconsin,WI,Mississippi,USA
+Wyoming,WY,Central,USA
+Colorado,CO,Central,USA
+Texas,TX,Central,USA
+Oklahoma,OK,Central,USA
+Kansas,KS,Central,USA
+Nebraska,NE,Central,USA
+South Dakota,SD,Central,USA
+North Dakota,ND,Central,USA
+Alaska,AK,Pacific,USA
+Arizona,AZ,Pacific,USA
+California,CA,Pacific,USA
+Idaho,ID,Pacific,USA
+Nevada,NV,Pacific,USA
+Oregon,OR,Pacific,USA
+Utah,UT,Pacific,USA
+Washington,WA,Pacific,USA
+Montana,MT,Pacific,USA
+New Mexico,NM,Pacific,USA
+District of Columbia,DC,Atlantic,USA
+Prince Edward Island,PE,Atlantic,Canada
+Nova Scotia,NS,Atlantic,Canada
+New Brunswick,NB,Atlantic,Canada
+Newfoundland and Labrador,NL,Atlantic,Canada
+Ontario,ON,Mississippi,Canada
+Alberta,AB,Central,Canada
+Saskatchewan,SK,Central,Canada
+British Columbia,BC,Pacific,Canada
+Yukon,YT,Pacific,Canada
+Nunavut,NU,Central,Canada
+Northwest Territories,NT,Central,Canada
+Manitoba,MB,Central,Canada
